@@ -1,1 +1,32 @@
+body {
+    margin:0;
+    font-family: "Saira, sans-serif";
+}
 
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    background-color: #071d29;
+    color: white;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+    margin: 0;
+    padding: 0px;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+}
+
+.logo {
+    color: orange;
+    font-size: 20px;
+    font: weight: 800;
+}
