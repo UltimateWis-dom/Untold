@@ -30,3 +30,9 @@ body {
     font-size: 20px;
     font: weight: 800;
 }
+
+.startbutton {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
